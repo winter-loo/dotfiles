@@ -1,0 +1,20 @@
+live_config_reload = true
+working_directory = "C:\\Users\\ludd50155"
+
+[font]
+size = 15
+normal = { family = "CodeNewRoman Nerd Font", style = "Regular" }
+bold = { family = "CodeNewRoman Nerd Font", style = "Bold" }
+italic = { family = "CodeNewRoman Nerd Font", style = "Italic" }
+
+[window]
+decorations = "None"
+startup_mode = "Maximized"
+
+[selection]
+save_to_clipboard = true
+
+[keyboard]
+bindings = [
+  { key = "v", mods = "Alt|Shift", action = "ToggleViMode" }
+]
